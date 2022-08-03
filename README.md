@@ -1,4 +1,4 @@
-<h1 align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&color=938AA9&center=true&vCenter=true&lines=LOADING..." alt="Typing SVG" /></a></h1>
+<h1 align=center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=26&color=938AA9&center=true&vCenter=true&lines=LOADING..." alt="Typing SVG" /></a></h1>
 
 
 <div align=center>
